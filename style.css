@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+
+.keyboard {
+    display: inline-block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.keyboard .btn {
+    width: 90px;
+    height: 70px;
+    margin: 5px;
+    font-size: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
